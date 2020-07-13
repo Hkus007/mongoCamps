@@ -1,0 +1,16 @@
+{
+  "name": "mongocamp",
+  "version": "1.0.0",
+  "description": "a learning mongo project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemant Kumar Singh",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^8.0.1",
+    "mongoose": "^5.9.24",
+    "nodemon": "^2.0.4"
+  }
+}
