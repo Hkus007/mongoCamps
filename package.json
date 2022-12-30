@@ -9,7 +9,7 @@
   "author": "Hemant Kumar Singh",
   "license": "MIT",
   "dependencies": {
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "mongoose": "^5.9.24",
     "nodemon": "^2.0.4"
   }
